@@ -1,6 +1,5 @@
 export const initialState = localStorage.getItem("theme") || []
 
-import React from 'react'
 
 const reducer = (state, action) => {
   switch(action.type){

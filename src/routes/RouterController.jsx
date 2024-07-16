@@ -8,7 +8,7 @@ const RouterController = () => {
     <div>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/single_page:id" element={<SinglePage />} />
+        <Route path="/single_page/:id" element={<SinglePage />} />
       </Routes>
     </div>
   )

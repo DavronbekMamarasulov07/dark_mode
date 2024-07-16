@@ -6,6 +6,7 @@
     z-index: 100;
     background-color: #f9f4ec45;
     backdrop-filter: blur(10px);
+    transition: .3s;
 }
 
 .theme-toggle {

@@ -1,20 +1,5 @@
 {
   "nav": {
     "title": "Oxirgi Yangilanishlar"
-  },
-
-  "blog": {
-    "hublot": {
-      "title": "Afsonaviy Hublot soati-aniqlik va nafosatning uyg'un tandemi",
-      "text": "Hublot Shveytsariyaning hashamatli soatlar ishlab chiqaruvchisi bo'lib, u 40 yil davomida soat ishlab chiqarishda termoyadroviy san'atni muvaffaqiyatli o'zida mujassam etgan. Hublot metall va kauchukni bir soatlik hunarmandchilikda birlashtirdi, bundan oldin hech bir kompaniya hashamatli soatlar ishlab chiqarishda foydalanmagan."
-    },
-    "rolex": {
-      "title": "Rolex soati haqida: Yakunona ehtiros va to'g'ri hisob kitobi jildlashgan san'at maxsulidir",
-      "text": "Kompaniya 1905 yilda nemis Hans Vilsdorf va uning kuyovi Alfred Davi tomonidan Wilsdorf and Davis kompaniyasi sifatida tashkil etilgan, keyinchalik u Rolex SA kompaniyasiga aylanadi, London, Angliya. 1908 yilda Vilsdorf 'Rolex' savdo belgisini ro'yxatdan o'tkazdi va Shveytsariyaning La Cho De fonda ofisini ochdi. 'Rolex' kompaniyasi 1915 yil 15 noyabrda ro'yxatdan o'tgan."
-    },
-    "omega": {
-      "title": "Omega soati haqida: Ishonchli joylar davrida to'liq noyoblik va elegansiyani biriktirgan",
-      "text": "Kompaniya 1848 yilda Shveysariyaning La sho-De-fon shahrida soatlar yig'ish ustaxonasi sifatida tashkil etilgan. Uning yaratuvchisi 23 yoshli Lui Brandt bo'lib, u butun qish davomida mahalliy hunarmandlar tomonidan yetkazib beriladigan ehtiyot qismlardan cho'ntak soatlarini to'plagan. Keyin, bahor kelganda, u ishlab chiqarilgan mahsulotlarni sotish uchun Evropaga sayohat qildi. Soat barqaror talabga ega bo'lib, uning farovon hayotini ta'minladi."
-    }
   }
 }
