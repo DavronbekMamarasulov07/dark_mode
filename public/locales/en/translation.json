@@ -1,0 +1,19 @@
+{
+    "nav" : {
+        "title" : "Latest Updates"
+    },
+    "blog":{
+        "hublot" : {
+            "title" : "The legendary Hublot watch is a harmonious tandem of precision and sophistication",
+            "text"  : "Hublot is a Swiss luxury watch manufacturer that has been successfully embodying the art of fusion in watchmaking for 40 years. Hublot has combined metal and rubber in watchmaking, which no company had previously used in the manufacture of luxury watches."
+        },
+        "rolex" : {
+            "title" : "Exploring Rolex Watches: A Fusion of Timeless Elegance and Precision Craftsmanship",
+            "text" : "Rolex SA  is a Swiss watch brand and manufacturer based in Geneva, Switzerland. Founded in 1905 as Wilsdorf and Davis by German businessman Hans Wilsdorf and his brother-in-law Alfred Davis in London, the company registered Rolex as the brand name of its watches in 1908 and became Rolex Watch Co. Ltd. in 1915."
+        },
+        "omega" : {
+            "title" : "About Omega Watches: Exemplifying Reliability and Elegance in the World of Timepieces",
+            "text" : "The Omega SA is Swiss watch manufacturer. It belongs to the Swatch Group of companies. It is in Biel-Bienne (Switzerland). Omega SA produces watches of a high standard. It was founded in 1848 by Louis Brandt in La Chaux-de-Fonds (Switzerland). There are many famous people that promote Omega SA including Michael Schuhmacher, George Clooney, Cindy Crawford and Nicole Kidman."
+        }
+    }
+}
